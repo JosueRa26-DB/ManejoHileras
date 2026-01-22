@@ -4,8 +4,9 @@ import java.util.Scanner;
 
 public class Main {
 
-    //cambiar la frase a mayuscula y a minuscula
     public static void main(String[] args) {
+
+        // cambiar la frase a mayuscula y a minuscula
         Scanner scanner = new Scanner(System.in);
 
         System.out.print("Ingrese una frase: ");
@@ -16,4 +17,3 @@ public class Main {
         System.out.println("Minúsculas: " + frase.toLowerCase());
     }
 }
-

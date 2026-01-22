@@ -5,6 +5,7 @@ import java.util.Scanner;
 public class Main {
     public static void main(String[] args) {
 
+        //Validacion de contraseña
         Scanner scanner = new Scanner(System.in);
         System.out.print("Ingrese una contraseña (8 caracteres):  ");
         String password = scanner.nextLine();

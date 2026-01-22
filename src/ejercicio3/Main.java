@@ -6,7 +6,7 @@ public class Main {
     public static void main(String[] args) {
  
 
-
+       //Verificar si las hileras son iguales o no
         Scanner scanner = new Scanner(System.in);
 
         System.out.print("Ingrese la primera hilera: ");

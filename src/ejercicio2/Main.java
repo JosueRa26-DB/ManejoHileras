@@ -4,6 +4,8 @@ import java.util.Scanner;
 
 public class Main {
     public static void main(String[] args) {
+
+        //Mostrar primer caracter y ultimo caracter
         Scanner scanner = new Scanner(System.in);
         System.out.println("Ingrese una palabra");
         String text = scanner.next();
